@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#B8B078'
+    - '#703808'
+    - '#709858'
+    - '#B01808'
+    - '#D8C8A8'
+  brandStrength: 0.601484
+  lightness: 0.800579
+  rhythmicContrast: 0.290559
+  saturation: 0.742146
+cta: {}
+layout_spectrum: 1
+name: Michael Piz
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.150337
